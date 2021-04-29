@@ -1,0 +1,62 @@
+{
+    "message": {
+        "attachments": null,
+        "auto_html": null,
+        "auto_text": null,
+        "bcc_address": null,
+        "from_email": "noreply@springboardbenefits.com",
+        "from_name": "Hello Iris!",
+        "global_merge_vars": [{
+            "content": "MarioDevTemplate QLA subject",
+            "name": "SUBJECT"
+        }, {
+            "content": "Springboard Benefits",
+            "name": "COMPANY"
+        }, {
+            "content": "div6  ddd",
+            "name": "FNAME"
+        }],
+        "google_analytics_campaign": null,
+        "google_analytics_domains": null,
+        "headers": null,
+        "html": "<p>Example HTML content</p>",
+        "images": null,
+        "important": null,
+        "inline_css": null,
+        "merge": true,
+        "merge_vars": null,
+        "metadata": {
+            "website": "www.springboardbenefits.com"
+        },
+        "preserve_recipients": false,
+        "raw_message": null,
+        "raw_to": null,
+        "recipient_metadata": null,
+        "return_path_domain": null,
+        "signing_domain": "www.springboardbenefits.com",
+        "subaccount": null,
+        "subject": "MarioDevTemplate QLA subject",
+        "merge_language": "mailchimp",
+        "tags": null,
+        "text": "Example Text Content",
+        "to": [{
+            "email": "alvanxp@outlook.com",
+            "name": "ALVARO",
+            "type": "to"
+        }, {
+            "email": "alvaro.carpio@teaminternational.com",
+            "type": "cc"
+        }],
+        "track_clicks": null,
+        "track_opens": null,
+        "tracking_domain": null,
+        "url_strip_qs": null,
+        "view_content_link": null
+    },
+    "template_name": "MarioDevTemplate",
+    "template_content": [],
+    "async": false,
+    "ip_pool": null,
+    "send_at": null,
+    "key": "xKwW9jVnNJu5gfepCOL2_g"
+}
