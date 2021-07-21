@@ -12,4 +12,4 @@ def abreviation(a, b):
                 dp[i][j] = dp[i][j-1]   
     return "YES" if dp[n][m] else "NO"
 
-print(abreviation("KXzQ","K"))
+print(abreviation("KXzQ","K"))`
